@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\bin\Debug\T.Bola.exe.config
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\bin\Debug\T.Bola.exe
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\bin\Debug\T.Bola.pdb
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\bin\Debug\T.Bola.xml
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\obj\Debug\T.Bola.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\obj\Debug\T.Bola.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\obj\Debug\T.Bola.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\obj\Debug\T.Bola.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\obj\Debug\T.Bola.exe
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\obj\Debug\T.Bola.xml
+c:\users\user\documents\visual studio 2015\Projects\T.Bola\T.Bola\obj\Debug\T.Bola.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Bola\T.Bola\bin\Debug\T.Bola.exe.config
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Bola\T.Bola\obj\Debug\T.Bola.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Bola\T.Bola\obj\Debug\T.Bola.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Bola\T.Bola\obj\Debug\T.Bola.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Bola\T.Bola\bin\Debug\T.Bola.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Bola\T.Bola\bin\Debug\T.Bola.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Bola\T.Bola\bin\Debug\T.Bola.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Bola\T.Bola\obj\Debug\T.Bola.vbprojResolveAssemblyReference.cache
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Bola\T.Bola\obj\Debug\T.Bola.Form1.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Bola\T.Bola\obj\Debug\T.Bola.Resources.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Bola\T.Bola\obj\Debug\T.Bola.vbproj.GenerateResource.Cache

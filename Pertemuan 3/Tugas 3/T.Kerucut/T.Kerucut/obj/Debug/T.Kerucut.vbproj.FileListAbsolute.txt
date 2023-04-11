@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2015\Projects\T.Kerucut\T.Kerucut\bin\Debug\T.Kerucut.exe.config
+c:\users\user\documents\visual studio 2015\Projects\T.Kerucut\T.Kerucut\bin\Debug\T.Kerucut.exe
+c:\users\user\documents\visual studio 2015\Projects\T.Kerucut\T.Kerucut\bin\Debug\T.Kerucut.pdb
+c:\users\user\documents\visual studio 2015\Projects\T.Kerucut\T.Kerucut\bin\Debug\T.Kerucut.xml
+c:\users\user\documents\visual studio 2015\Projects\T.Kerucut\T.Kerucut\obj\Debug\T.Kerucut.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\T.Kerucut\T.Kerucut\obj\Debug\T.Kerucut.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\T.Kerucut\T.Kerucut\obj\Debug\T.Kerucut.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\T.Kerucut\T.Kerucut\obj\Debug\T.Kerucut.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\T.Kerucut\T.Kerucut\obj\Debug\T.Kerucut.exe
+c:\users\user\documents\visual studio 2015\Projects\T.Kerucut\T.Kerucut\obj\Debug\T.Kerucut.xml
+c:\users\user\documents\visual studio 2015\Projects\T.Kerucut\T.Kerucut\obj\Debug\T.Kerucut.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Kerucut\T.Kerucut\bin\Debug\T.Kerucut.exe.config
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Kerucut\T.Kerucut\obj\Debug\T.Kerucut.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Kerucut\T.Kerucut\obj\Debug\T.Kerucut.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Kerucut\T.Kerucut\obj\Debug\T.Kerucut.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Kerucut\T.Kerucut\bin\Debug\T.Kerucut.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Kerucut\T.Kerucut\bin\Debug\T.Kerucut.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Kerucut\T.Kerucut\bin\Debug\T.Kerucut.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Kerucut\T.Kerucut\obj\Debug\T.Kerucut.vbprojResolveAssemblyReference.cache
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Kerucut\T.Kerucut\obj\Debug\T.Kerucut.Form1.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Kerucut\T.Kerucut\obj\Debug\T.Kerucut.Resources.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Kerucut\T.Kerucut\obj\Debug\T.Kerucut.vbproj.GenerateResource.Cache
