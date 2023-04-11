@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2015\Projects\T.Tabung\T.Tabung\bin\Debug\T.Tabung.exe.config
+c:\users\user\documents\visual studio 2015\Projects\T.Tabung\T.Tabung\bin\Debug\T.Tabung.exe
+c:\users\user\documents\visual studio 2015\Projects\T.Tabung\T.Tabung\bin\Debug\T.Tabung.pdb
+c:\users\user\documents\visual studio 2015\Projects\T.Tabung\T.Tabung\bin\Debug\T.Tabung.xml
+c:\users\user\documents\visual studio 2015\Projects\T.Tabung\T.Tabung\obj\Debug\T.Tabung.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\T.Tabung\T.Tabung\obj\Debug\T.Tabung.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\T.Tabung\T.Tabung\obj\Debug\T.Tabung.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\T.Tabung\T.Tabung\obj\Debug\T.Tabung.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\T.Tabung\T.Tabung\obj\Debug\T.Tabung.exe
+c:\users\user\documents\visual studio 2015\Projects\T.Tabung\T.Tabung\obj\Debug\T.Tabung.xml
+c:\users\user\documents\visual studio 2015\Projects\T.Tabung\T.Tabung\obj\Debug\T.Tabung.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Tabung\T.Tabung\bin\Debug\T.Tabung.exe.config
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Tabung\T.Tabung\obj\Debug\T.Tabung.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Tabung\T.Tabung\obj\Debug\T.Tabung.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Tabung\T.Tabung\obj\Debug\T.Tabung.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Tabung\T.Tabung\bin\Debug\T.Tabung.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Tabung\T.Tabung\bin\Debug\T.Tabung.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Tabung\T.Tabung\bin\Debug\T.Tabung.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Tabung\T.Tabung\obj\Debug\T.Tabung.vbprojResolveAssemblyReference.cache
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Tabung\T.Tabung\obj\Debug\T.Tabung.Form1.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Tabung\T.Tabung\obj\Debug\T.Tabung.Resources.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Tabung\T.Tabung\obj\Debug\T.Tabung.vbproj.GenerateResource.Cache
