@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2015\Projects\T.Penjumlahan\T.Penjumlahan\bin\Debug\T.Penjumlahan.exe.config
+c:\users\user\documents\visual studio 2015\Projects\T.Penjumlahan\T.Penjumlahan\bin\Debug\T.Penjumlahan.exe
+c:\users\user\documents\visual studio 2015\Projects\T.Penjumlahan\T.Penjumlahan\bin\Debug\T.Penjumlahan.pdb
+c:\users\user\documents\visual studio 2015\Projects\T.Penjumlahan\T.Penjumlahan\bin\Debug\T.Penjumlahan.xml
+c:\users\user\documents\visual studio 2015\Projects\T.Penjumlahan\T.Penjumlahan\obj\Debug\T.Penjumlahan.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\T.Penjumlahan\T.Penjumlahan\obj\Debug\T.Penjumlahan.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\T.Penjumlahan\T.Penjumlahan\obj\Debug\T.Penjumlahan.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\T.Penjumlahan\T.Penjumlahan\obj\Debug\T.Penjumlahan.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\T.Penjumlahan\T.Penjumlahan\obj\Debug\T.Penjumlahan.exe
+c:\users\user\documents\visual studio 2015\Projects\T.Penjumlahan\T.Penjumlahan\obj\Debug\T.Penjumlahan.xml
+c:\users\user\documents\visual studio 2015\Projects\T.Penjumlahan\T.Penjumlahan\obj\Debug\T.Penjumlahan.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Penjumlahan\T.Penjumlahan\bin\Debug\T.Penjumlahan.exe.config
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Penjumlahan\T.Penjumlahan\obj\Debug\T.Penjumlahan.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Penjumlahan\T.Penjumlahan\obj\Debug\T.Penjumlahan.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Penjumlahan\T.Penjumlahan\obj\Debug\T.Penjumlahan.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Penjumlahan\T.Penjumlahan\bin\Debug\T.Penjumlahan.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Penjumlahan\T.Penjumlahan\bin\Debug\T.Penjumlahan.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Penjumlahan\T.Penjumlahan\bin\Debug\T.Penjumlahan.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Penjumlahan\T.Penjumlahan\obj\Debug\T.Penjumlahan.vbprojResolveAssemblyReference.cache
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Penjumlahan\T.Penjumlahan\obj\Debug\T.Penjumlahan.Form1.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Penjumlahan\T.Penjumlahan\obj\Debug\T.Penjumlahan.Resources.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Penjumlahan\T.Penjumlahan\obj\Debug\T.Penjumlahan.vbproj.GenerateResource.Cache

@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2015\Projects\T.Perkalian\T.Perkalian\bin\Debug\T.Perkalian.exe.config
+c:\users\user\documents\visual studio 2015\Projects\T.Perkalian\T.Perkalian\obj\Debug\T.Perkalian.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\T.Perkalian\T.Perkalian\obj\Debug\T.Perkalian.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\T.Perkalian\T.Perkalian\obj\Debug\T.Perkalian.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\T.Perkalian\T.Perkalian\obj\Debug\T.Perkalian.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\T.Perkalian\T.Perkalian\obj\Debug\T.Perkalian.xml
+c:\users\user\documents\visual studio 2015\Projects\T.Perkalian\T.Perkalian\bin\Debug\T.Perkalian.exe
+c:\users\user\documents\visual studio 2015\Projects\T.Perkalian\T.Perkalian\bin\Debug\T.Perkalian.pdb
+c:\users\user\documents\visual studio 2015\Projects\T.Perkalian\T.Perkalian\bin\Debug\T.Perkalian.xml
+c:\users\user\documents\visual studio 2015\Projects\T.Perkalian\T.Perkalian\obj\Debug\T.Perkalian.exe
+c:\users\user\documents\visual studio 2015\Projects\T.Perkalian\T.Perkalian\obj\Debug\T.Perkalian.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Perkalian\T.Perkalian\bin\Debug\T.Perkalian.exe.config
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Perkalian\T.Perkalian\obj\Debug\T.Perkalian.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Perkalian\T.Perkalian\obj\Debug\T.Perkalian.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Perkalian\T.Perkalian\obj\Debug\T.Perkalian.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Perkalian\T.Perkalian\bin\Debug\T.Perkalian.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Perkalian\T.Perkalian\bin\Debug\T.Perkalian.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Perkalian\T.Perkalian\bin\Debug\T.Perkalian.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Perkalian\T.Perkalian\obj\Debug\T.Perkalian.vbprojResolveAssemblyReference.cache
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Perkalian\T.Perkalian\obj\Debug\T.Perkalian.Form1.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Perkalian\T.Perkalian\obj\Debug\T.Perkalian.Resources.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Perkalian\T.Perkalian\obj\Debug\T.Perkalian.vbproj.GenerateResource.Cache
