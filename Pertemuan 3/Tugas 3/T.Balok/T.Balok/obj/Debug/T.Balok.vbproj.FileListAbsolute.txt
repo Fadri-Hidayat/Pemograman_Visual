@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2015\Projects\T.Balok\T.Balok\bin\Debug\T.Balok.exe.config
+c:\users\user\documents\visual studio 2015\Projects\T.Balok\T.Balok\bin\Debug\T.Balok.exe
+c:\users\user\documents\visual studio 2015\Projects\T.Balok\T.Balok\bin\Debug\T.Balok.pdb
+c:\users\user\documents\visual studio 2015\Projects\T.Balok\T.Balok\bin\Debug\T.Balok.xml
+c:\users\user\documents\visual studio 2015\Projects\T.Balok\T.Balok\obj\Debug\T.Balok.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\T.Balok\T.Balok\obj\Debug\T.Balok.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\T.Balok\T.Balok\obj\Debug\T.Balok.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\T.Balok\T.Balok\obj\Debug\T.Balok.exe
+c:\users\user\documents\visual studio 2015\Projects\T.Balok\T.Balok\obj\Debug\T.Balok.xml
+c:\users\user\documents\visual studio 2015\Projects\T.Balok\T.Balok\obj\Debug\T.Balok.pdb
+c:\users\user\documents\visual studio 2015\Projects\T.Balok\T.Balok\obj\Debug\T.Balok.Perhitungan.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Balok\T.Balok\bin\Debug\T.Balok.exe.config
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Balok\T.Balok\obj\Debug\T.Balok.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Balok\T.Balok\obj\Debug\T.Balok.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Balok\T.Balok\obj\Debug\T.Balok.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Balok\T.Balok\bin\Debug\T.Balok.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Balok\T.Balok\bin\Debug\T.Balok.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Balok\T.Balok\bin\Debug\T.Balok.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Balok\T.Balok\obj\Debug\T.Balok.vbprojResolveAssemblyReference.cache
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Balok\T.Balok\obj\Debug\T.Balok.Perhitungan.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Balok\T.Balok\obj\Debug\T.Balok.Resources.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\TUGAS 3\T.Balok\T.Balok\obj\Debug\T.Balok.vbproj.GenerateResource.Cache
