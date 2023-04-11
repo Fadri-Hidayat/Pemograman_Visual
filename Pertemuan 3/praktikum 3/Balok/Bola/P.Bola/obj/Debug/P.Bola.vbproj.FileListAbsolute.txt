@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2015\Projects\P.Bola\P.Bola\bin\Debug\P.Bola.exe.config
+c:\users\user\documents\visual studio 2015\Projects\P.Bola\P.Bola\bin\Debug\P.Bola.exe
+c:\users\user\documents\visual studio 2015\Projects\P.Bola\P.Bola\bin\Debug\P.Bola.pdb
+c:\users\user\documents\visual studio 2015\Projects\P.Bola\P.Bola\bin\Debug\P.Bola.xml
+c:\users\user\documents\visual studio 2015\Projects\P.Bola\P.Bola\obj\Debug\P.Bola.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\P.Bola\P.Bola\obj\Debug\P.Bola.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\P.Bola\P.Bola\obj\Debug\P.Bola.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\P.Bola\P.Bola\obj\Debug\P.Bola.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\P.Bola\P.Bola\obj\Debug\P.Bola.exe
+c:\users\user\documents\visual studio 2015\Projects\P.Bola\P.Bola\obj\Debug\P.Bola.xml
+c:\users\user\documents\visual studio 2015\Projects\P.Bola\P.Bola\obj\Debug\P.Bola.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Bola\P.Bola\bin\Debug\P.Bola.exe.config
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Bola\P.Bola\obj\Debug\P.Bola.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Bola\P.Bola\obj\Debug\P.Bola.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Bola\P.Bola\obj\Debug\P.Bola.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Bola\P.Bola\bin\Debug\P.Bola.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Bola\P.Bola\bin\Debug\P.Bola.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Bola\P.Bola\bin\Debug\P.Bola.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Bola\P.Bola\obj\Debug\P.Bola.vbprojResolveAssemblyReference.cache
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Bola\P.Bola\obj\Debug\P.Bola.Form1.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Bola\P.Bola\obj\Debug\P.Bola.Resources.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Bola\P.Bola\obj\Debug\P.Bola.vbproj.GenerateResource.Cache

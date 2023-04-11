@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2015\Projects\P.Kerucut\P.Kerucut\bin\Debug\P.Kerucut.exe.config
+c:\users\user\documents\visual studio 2015\Projects\P.Kerucut\P.Kerucut\obj\Debug\P.Kerucut.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\P.Kerucut\P.Kerucut\obj\Debug\P.Kerucut.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\P.Kerucut\P.Kerucut\obj\Debug\P.Kerucut.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\P.Kerucut\P.Kerucut\obj\Debug\P.Kerucut.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\P.Kerucut\P.Kerucut\obj\Debug\P.Kerucut.xml
+c:\users\user\documents\visual studio 2015\Projects\P.Kerucut\P.Kerucut\bin\Debug\P.Kerucut.exe
+c:\users\user\documents\visual studio 2015\Projects\P.Kerucut\P.Kerucut\bin\Debug\P.Kerucut.pdb
+c:\users\user\documents\visual studio 2015\Projects\P.Kerucut\P.Kerucut\bin\Debug\P.Kerucut.xml
+c:\users\user\documents\visual studio 2015\Projects\P.Kerucut\P.Kerucut\obj\Debug\P.Kerucut.exe
+c:\users\user\documents\visual studio 2015\Projects\P.Kerucut\P.Kerucut\obj\Debug\P.Kerucut.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Kerucut\P.Kerucut\bin\Debug\P.Kerucut.exe.config
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Kerucut\P.Kerucut\obj\Debug\P.Kerucut.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Kerucut\P.Kerucut\obj\Debug\P.Kerucut.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Kerucut\P.Kerucut\obj\Debug\P.Kerucut.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Kerucut\P.Kerucut\bin\Debug\P.Kerucut.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Kerucut\P.Kerucut\bin\Debug\P.Kerucut.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Kerucut\P.Kerucut\bin\Debug\P.Kerucut.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Kerucut\P.Kerucut\obj\Debug\P.Kerucut.vbprojResolveAssemblyReference.cache
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Kerucut\P.Kerucut\obj\Debug\P.Kerucut.Form1.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Kerucut\P.Kerucut\obj\Debug\P.Kerucut.Resources.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 3\praktikum 3\Kerucut\P.Kerucut\obj\Debug\P.Kerucut.vbproj.GenerateResource.Cache
