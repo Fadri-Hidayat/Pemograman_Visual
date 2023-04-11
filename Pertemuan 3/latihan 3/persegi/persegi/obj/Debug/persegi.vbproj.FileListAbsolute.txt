@@ -1,0 +1,20 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\persegi\persegi\bin\Debug\persegi.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\persegi\persegi\bin\Debug\persegi.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\persegi\persegi\bin\Debug\persegi.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\persegi\persegi\bin\Debug\persegi.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\persegi\persegi\obj\Debug\persegi.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\persegi\persegi\obj\Debug\persegi.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\persegi\persegi\obj\Debug\persegi.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\persegi\persegi\obj\Debug\persegi.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\persegi\persegi\obj\Debug\persegi.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\persegi\persegi\obj\Debug\persegi.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\latihan3\persegi\persegi\bin\Debug\persegi.exe.config
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\latihan3\persegi\persegi\obj\Debug\persegi.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\latihan3\persegi\persegi\obj\Debug\persegi.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\latihan3\persegi\persegi\obj\Debug\persegi.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\latihan3\persegi\persegi\bin\Debug\persegi.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\latihan3\persegi\persegi\bin\Debug\persegi.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\latihan3\persegi\persegi\bin\Debug\persegi.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\latihan3\persegi\persegi\obj\Debug\persegi.Form1.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\latihan3\persegi\persegi\obj\Debug\persegi.Resources.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\latihan3\persegi\persegi\obj\Debug\persegi.vbproj.GenerateResource.Cache
