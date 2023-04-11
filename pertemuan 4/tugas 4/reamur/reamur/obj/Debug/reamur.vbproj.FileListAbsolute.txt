@@ -1,0 +1,22 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\bin\Debug\reamur.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\bin\Debug\reamur.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\bin\Debug\reamur.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\bin\Debug\reamur.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\obj\Debug\reamur.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\obj\Debug\reamur.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\obj\Debug\reamur.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\obj\Debug\reamur.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\obj\Debug\reamur.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\obj\Debug\reamur.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\obj\Debug\reamur.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 4\tugas 4\reamur\reamur\bin\Debug\reamur.exe.config
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 4\tugas 4\reamur\reamur\obj\Debug\reamur.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 4\tugas 4\reamur\reamur\obj\Debug\reamur.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 4\tugas 4\reamur\reamur\obj\Debug\reamur.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 4\tugas 4\reamur\reamur\bin\Debug\reamur.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 4\tugas 4\reamur\reamur\bin\Debug\reamur.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 4\tugas 4\reamur\reamur\bin\Debug\reamur.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 4\tugas 4\reamur\reamur\obj\Debug\reamur.vbprojResolveAssemblyReference.cache
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 4\tugas 4\reamur\reamur\obj\Debug\reamur.Form1.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 4\tugas 4\reamur\reamur\obj\Debug\reamur.Resources.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 4\tugas 4\reamur\reamur\obj\Debug\reamur.vbproj.GenerateResource.Cache
