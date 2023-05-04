@@ -1,0 +1,25 @@
+C:\Users\Aziz Maulana\Downloads\Pertemuan Ke Lima\Latiihan5\Latihan5\Latihan5\bin\Debug\Latihan5.exe.config
+C:\Users\Aziz Maulana\Downloads\Pertemuan Ke Lima\Latiihan5\Latihan5\Latihan5\bin\Debug\Latihan5.exe
+C:\Users\Aziz Maulana\Downloads\Pertemuan Ke Lima\Latiihan5\Latihan5\Latihan5\bin\Debug\Latihan5.pdb
+C:\Users\Aziz Maulana\Downloads\Pertemuan Ke Lima\Latiihan5\Latihan5\Latihan5\bin\Debug\Latihan5.xml
+C:\Users\Aziz Maulana\Downloads\Pertemuan Ke Lima\Latiihan5\Latihan5\Latihan5\obj\Debug\Latihan5.vbprojResolveAssemblyReference.cache
+C:\Users\Aziz Maulana\Downloads\Pertemuan Ke Lima\Latiihan5\Latihan5\Latihan5\obj\Debug\Latihan5.Form1.resources
+C:\Users\Aziz Maulana\Downloads\Pertemuan Ke Lima\Latiihan5\Latihan5\Latihan5\obj\Debug\Latihan5.Form2.resources
+C:\Users\Aziz Maulana\Downloads\Pertemuan Ke Lima\Latiihan5\Latihan5\Latihan5\obj\Debug\Latihan5.Resources.resources
+C:\Users\Aziz Maulana\Downloads\Pertemuan Ke Lima\Latiihan5\Latihan5\Latihan5\obj\Debug\Latihan5.vbproj.GenerateResource.Cache
+C:\Users\Aziz Maulana\Downloads\Pertemuan Ke Lima\Latiihan5\Latihan5\Latihan5\obj\Debug\Latihan5.exe
+C:\Users\Aziz Maulana\Downloads\Pertemuan Ke Lima\Latiihan5\Latihan5\Latihan5\obj\Debug\Latihan5.xml
+C:\Users\Aziz Maulana\Downloads\Pertemuan Ke Lima\Latiihan5\Latihan5\Latihan5\obj\Debug\Latihan5.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan5\Latihan5\Latihan5\bin\Debug\Latihan5.exe.config
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan5\Latihan5\Latihan5\obj\Debug\Latihan5.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan5\Latihan5\Latihan5\obj\Debug\Latihan5.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan5\Latihan5\Latihan5\obj\Debug\Latihan5.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan5\Latihan5\Latihan5\bin\Debug\Latihan5.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan5\Latihan5\Latihan5\bin\Debug\Latihan5.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan5\Latihan5\Latihan5\bin\Debug\Latihan5.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan5\Latihan5\Latihan5\obj\Debug\Latihan5.vbprojResolveAssemblyReference.cache
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan5\Latihan5\Latihan5\obj\Debug\Latihan5.Form1.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan5\Latihan5\Latihan5\obj\Debug\Latihan5.Form2.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan5\Latihan5\Latihan5\obj\Debug\Latihan5.Resources.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan5\Latihan5\Latihan5\obj\Debug\Latihan5.vbproj.GenerateResource.Cache
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan5\Latihan5\Latihan5\obj\Debug\Latihan5.Form3.resources
