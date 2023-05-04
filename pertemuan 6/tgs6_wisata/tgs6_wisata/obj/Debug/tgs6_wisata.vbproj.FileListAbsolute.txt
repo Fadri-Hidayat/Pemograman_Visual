@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2015\Projects\tgs6_wisata\tgs6_wisata\bin\Debug\tgs6_wisata.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\tgs6_wisata\tgs6_wisata\bin\Debug\tgs6_wisata.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\tgs6_wisata\tgs6_wisata\bin\Debug\tgs6_wisata.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\tgs6_wisata\tgs6_wisata\bin\Debug\tgs6_wisata.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\tgs6_wisata\tgs6_wisata\obj\Debug\tgs6_wisata.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\tgs6_wisata\tgs6_wisata\obj\Debug\tgs6_wisata.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\tgs6_wisata\tgs6_wisata\obj\Debug\tgs6_wisata.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\tgs6_wisata\tgs6_wisata\obj\Debug\tgs6_wisata.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\tgs6_wisata\tgs6_wisata\obj\Debug\tgs6_wisata.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\tgs6_wisata\tgs6_wisata\obj\Debug\tgs6_wisata.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\tgs6_wisata\tgs6_wisata\obj\Debug\tgs6_wisata.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 6\tgs6_wisata\tgs6_wisata\bin\Debug\tgs6_wisata.exe.config
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 6\tgs6_wisata\tgs6_wisata\obj\Debug\tgs6_wisata.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 6\tgs6_wisata\tgs6_wisata\obj\Debug\tgs6_wisata.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 6\tgs6_wisata\tgs6_wisata\obj\Debug\tgs6_wisata.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 6\tgs6_wisata\tgs6_wisata\bin\Debug\tgs6_wisata.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 6\tgs6_wisata\tgs6_wisata\bin\Debug\tgs6_wisata.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 6\tgs6_wisata\tgs6_wisata\bin\Debug\tgs6_wisata.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 6\tgs6_wisata\tgs6_wisata\obj\Debug\tgs6_wisata.vbprojResolveAssemblyReference.cache
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 6\tgs6_wisata\tgs6_wisata\obj\Debug\tgs6_wisata.Form1.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 6\tgs6_wisata\tgs6_wisata\obj\Debug\tgs6_wisata.Resources.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 6\tgs6_wisata\tgs6_wisata\obj\Debug\tgs6_wisata.vbproj.GenerateResource.Cache
