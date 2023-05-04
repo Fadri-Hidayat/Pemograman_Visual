@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2015\Projects\Tugas5\Tugas5\bin\Debug\Tugas5.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Tugas5\Tugas5\obj\Debug\Tugas5.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Tugas5\Tugas5\obj\Debug\Tugas5.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Tugas5\Tugas5\obj\Debug\Tugas5.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Tugas5\Tugas5\obj\Debug\Tugas5.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Tugas5\Tugas5\bin\Debug\Tugas5.exe
+c:\users\user\documents\visual studio 2015\Projects\Tugas5\Tugas5\bin\Debug\Tugas5.pdb
+c:\users\user\documents\visual studio 2015\Projects\Tugas5\Tugas5\bin\Debug\Tugas5.xml
+c:\users\user\documents\visual studio 2015\Projects\Tugas5\Tugas5\obj\Debug\Tugas5.exe
+c:\users\user\documents\visual studio 2015\Projects\Tugas5\Tugas5\obj\Debug\Tugas5.xml
+c:\users\user\documents\visual studio 2015\Projects\Tugas5\Tugas5\obj\Debug\Tugas5.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Tugas5\Tugas5\bin\Debug\Tugas5.exe.config
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Tugas5\Tugas5\obj\Debug\Tugas5.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Tugas5\Tugas5\obj\Debug\Tugas5.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Tugas5\Tugas5\obj\Debug\Tugas5.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Tugas5\Tugas5\bin\Debug\Tugas5.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Tugas5\Tugas5\bin\Debug\Tugas5.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Tugas5\Tugas5\bin\Debug\Tugas5.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Tugas5\Tugas5\obj\Debug\Tugas5.vbprojResolveAssemblyReference.cache
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Tugas5\Tugas5\obj\Debug\Tugas5.Form1.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Tugas5\Tugas5\obj\Debug\Tugas5.Resources.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Tugas5\Tugas5\obj\Debug\Tugas5.vbproj.GenerateResource.Cache

@@ -1,0 +1,28 @@
+c:\users\user\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\bin\Debug\Praktikum5.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\bin\Debug\Praktikum5.exe
+c:\users\user\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\bin\Debug\Praktikum5.pdb
+c:\users\user\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\bin\Debug\Praktikum5.xml
+c:\users\user\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\obj\Debug\Praktikum5.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\obj\Debug\Praktikum5.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\obj\Debug\Praktikum5.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\obj\Debug\Praktikum5.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\obj\Debug\Praktikum5.exe
+c:\users\user\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\obj\Debug\Praktikum5.xml
+c:\users\user\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\obj\Debug\Praktikum5.pdb
+c:\users\user\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\obj\Debug\Praktikum5.Form2.resources
+c:\users\user\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\obj\Debug\Praktikum5.if1.resources
+c:\users\user\documents\visual studio 2015\Projects\Praktikum5\Praktikum5\obj\Debug\Praktikum5.if2.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Praktikum5\Praktikum5\bin\Debug\Praktikum5.exe.config
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Praktikum5\Praktikum5\obj\Debug\Praktikum5.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Praktikum5\Praktikum5\obj\Debug\Praktikum5.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Praktikum5\Praktikum5\obj\Debug\Praktikum5.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Praktikum5\Praktikum5\bin\Debug\Praktikum5.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Praktikum5\Praktikum5\bin\Debug\Praktikum5.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Praktikum5\Praktikum5\bin\Debug\Praktikum5.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Praktikum5\Praktikum5\obj\Debug\Praktikum5.vbprojResolveAssemblyReference.cache
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Praktikum5\Praktikum5\obj\Debug\Praktikum5.Form1.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Praktikum5\Praktikum5\obj\Debug\Praktikum5.Form2.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Praktikum5\Praktikum5\obj\Debug\Praktikum5.if1.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Praktikum5\Praktikum5\obj\Debug\Praktikum5.if2.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Praktikum5\Praktikum5\obj\Debug\Praktikum5.Resources.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Tugas\pertemuan 5\Praktikum5\Praktikum5\obj\Debug\Praktikum5.vbproj.GenerateResource.Cache
