@@ -1,0 +1,30 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Multiform\Multiform\bin\Debug\Multiform.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Multiform\Multiform\bin\Debug\Multiform.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Multiform\Multiform\bin\Debug\Multiform.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Multiform\Multiform\bin\Debug\Multiform.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Multiform\Multiform\obj\Debug\Multiform.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Multiform\Multiform\obj\Debug\Multiform.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Multiform\Multiform\obj\Debug\Multiform.Form2.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Multiform\Multiform\obj\Debug\Multiform.Form3.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Multiform\Multiform\obj\Debug\Multiform.Form4.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Multiform\Multiform\obj\Debug\Multiform.Form5.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Multiform\Multiform\obj\Debug\Multiform.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Multiform\Multiform\obj\Debug\Multiform.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Multiform\Multiform\obj\Debug\Multiform.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Multiform\Multiform\obj\Debug\Multiform.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Multiform\Multiform\obj\Debug\Multiform.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Multiform\Multiform\Multiform\bin\Debug\Multiform.exe.config
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Multiform\Multiform\Multiform\obj\Debug\Multiform.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Multiform\Multiform\Multiform\obj\Debug\Multiform.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Multiform\Multiform\Multiform\obj\Debug\Multiform.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Multiform\Multiform\Multiform\bin\Debug\Multiform.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Multiform\Multiform\Multiform\bin\Debug\Multiform.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Multiform\Multiform\Multiform\bin\Debug\Multiform.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Multiform\Multiform\Multiform\obj\Debug\Multiform.vbprojResolveAssemblyReference.cache
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Multiform\Multiform\Multiform\obj\Debug\Multiform.Form1.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Multiform\Multiform\Multiform\obj\Debug\Multiform.Form2.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Multiform\Multiform\Multiform\obj\Debug\Multiform.Form3.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Multiform\Multiform\Multiform\obj\Debug\Multiform.Form4.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Multiform\Multiform\Multiform\obj\Debug\Multiform.Form5.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Multiform\Multiform\Multiform\obj\Debug\Multiform.Resources.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\Multiform\Multiform\Multiform\obj\Debug\Multiform.vbproj.GenerateResource.Cache
