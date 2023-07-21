@@ -1,0 +1,38 @@
+c:\users\nitro acer\onedrive\documents\visual studio 2015\Projects\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe.config
+c:\users\nitro acer\onedrive\documents\visual studio 2015\Projects\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+c:\users\nitro acer\onedrive\documents\visual studio 2015\Projects\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+c:\users\nitro acer\onedrive\documents\visual studio 2015\Projects\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+c:\users\nitro acer\onedrive\documents\visual studio 2015\Projects\AppPenjualan\AppPenjualan\bin\Debug\MySql.Data.dll
+c:\users\nitro acer\onedrive\documents\visual studio 2015\Projects\AppPenjualan\AppPenjualan\bin\Debug\Newtonsoft.Json.dll
+c:\users\nitro acer\onedrive\documents\visual studio 2015\Projects\AppPenjualan\AppPenjualan\bin\Debug\Newtonsoft.Json.pdb
+c:\users\nitro acer\onedrive\documents\visual studio 2015\Projects\AppPenjualan\AppPenjualan\bin\Debug\Newtonsoft.Json.xml
+c:\users\nitro acer\onedrive\documents\visual studio 2015\Projects\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.vbprojResolveAssemblyReference.cache
+c:\users\nitro acer\onedrive\documents\visual studio 2015\Projects\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.Customer.resources
+c:\users\nitro acer\onedrive\documents\visual studio 2015\Projects\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.Resources.resources
+c:\users\nitro acer\onedrive\documents\visual studio 2015\Projects\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+c:\users\nitro acer\onedrive\documents\visual studio 2015\Projects\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.exe
+c:\users\nitro acer\onedrive\documents\visual studio 2015\Projects\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.xml
+c:\users\nitro acer\onedrive\documents\visual studio 2015\Projects\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.pdb
+c:\users\nitro acer\onedrive\documents\visual studio 2015\Projects\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.Sparepart.resources
+C:\Users\NITRO ACER\onedrive\documents\visual studio 2015\Projects\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.Transaksi.resources
+C:\Users\NITRO ACER\onedrive\documents\visual studio 2015\Projects\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.Dashboard.resources
+C:\Users\NITRO ACER\onedrive\documents\visual studio 2015\Projects\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.login.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\tugas_besar\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe.config
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\tugas_besar\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\tugas_besar\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\tugas_besar\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\tugas_besar\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\tugas_besar\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\tugas_besar\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\tugas_besar\AppPenjualan\AppPenjualan\bin\Debug\MySql.Data.dll
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\tugas_besar\AppPenjualan\AppPenjualan\bin\Debug\Newtonsoft.Json.dll
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\tugas_besar\AppPenjualan\AppPenjualan\bin\Debug\Newtonsoft.Json.pdb
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\tugas_besar\AppPenjualan\AppPenjualan\bin\Debug\Newtonsoft.Json.xml
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\tugas_besar\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.vbprojResolveAssemblyReference.cache
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\tugas_besar\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.Customer.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\tugas_besar\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.Dashboard.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\tugas_besar\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.login.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\tugas_besar\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.Resources.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\tugas_besar\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.Sparepart.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\tugas_besar\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.Transaksi.resources
+D:\KULIAH FADRI HIDAYAT\SEMESTER 6\Pemograman Visual\Latihan\tugas_besar\AppPenjualan\AppPenjualan\obj\Debug\AppPenjualan.vbproj.GenerateResource.Cache
