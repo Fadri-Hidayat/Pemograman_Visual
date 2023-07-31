@@ -1,6 +1,6 @@
 <?php
 require_once 'database.php';
-require_once 'Customer.php';
+require_once 'customer.php';
 $db = new MySQLDatabase();
 $customer = new Customer($db);
 $id = 0;
